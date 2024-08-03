@@ -1,2 +1,2 @@
 # catppuccin-sddm
-personal fork of catpuccin sddm [https://github.com/catppuccin/sddm](theme) (mocha release)
+personal fork of the catpuccin sddm [theme](https://github.com/catppuccin/sddm) (mocha release)
