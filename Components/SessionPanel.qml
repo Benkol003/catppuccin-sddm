@@ -84,7 +84,7 @@ Item {
         when: sessionButton.hovered
         PropertyChanges {
           target: sessionButtonBackground
-          color: config.surface2
+          color: config.surface1
         }
       },
       State {

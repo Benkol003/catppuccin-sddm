@@ -18,7 +18,7 @@ Item {
     background: Rectangle {
       id: powerButtonBackground
       radius: 3
-      color: config.red
+      color: config.purple
     }
     states: [
       State {

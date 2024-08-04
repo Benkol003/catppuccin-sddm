@@ -88,7 +88,7 @@ Item {
       }
       background: Rectangle {
         id: buttonBackground
-        color: config.sapphire
+        color: config.purple
         radius: 3
       }
       states: [

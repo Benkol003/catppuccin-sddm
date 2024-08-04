@@ -17,7 +17,7 @@ Item {
     }
     background: Rectangle {
       id: sleepButtonBg
-      color: config.red
+      color: config.purple
       radius: 3
     }
     states: [
